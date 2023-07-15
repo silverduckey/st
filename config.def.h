@@ -9,7 +9,7 @@ static char *font =
     "Mononoki Nerd Font:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-    "RobotoMono Nerd Font:pixelsize=14:antialias=true:autohint=true",
+    "UbuntuMono Nerd Font:pixelsize=14:antialias=true:autohint=true",
     "JoyPixels:pixelsize=14:antialias=true:autohint=true",
 };
 
