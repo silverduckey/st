@@ -134,7 +134,7 @@ static const char *colorname[] = {
 	[15] = "#eceff4", /* white   */
 
     [256] = "#2e3440", /* bg      */
-    [257] = "#d9dee9", /* bg      */
+    [257] = "#d8dee9", /* fg      */
 };
 /*
  * Default colors (colorname index)
