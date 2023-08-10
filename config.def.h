@@ -1,6 +1,5 @@
 static char *font =
     "Mononoki Nerd Font:pixelsize=14:antialias=true:autohint=true";
-
 static char *font2[] = {
     "JoyPixels:pixelsize=14:antialias=true:autohint=true",
 };
@@ -68,8 +67,8 @@ static unsigned int cols = 80;
 static unsigned int rows = 24;
 
 static unsigned int mouseshape = XC_xterm;
-static unsigned int mousefg = 7;
-static unsigned int mousebg = 0;
+static unsigned int mousefg = 256;
+static unsigned int mousebg = 257;
 
 static unsigned int defaultattr = 11;
 
