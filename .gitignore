@@ -1,6 +1,4 @@
-boxdraw.o
+*.o
 boxdraw_data.h
 config.h
-st.o
-x.o
 st
