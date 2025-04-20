@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Mononoki Nerd Font:size=12:antialias=true:autohint=true";
+static char *font = "IosevkaTermSlab Nerd Font:size=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
     "Noto Color Emoji:size=12:antialias=true:autohint=true",
